@@ -38,12 +38,9 @@ Os resultados e gráficos desta análise destinam-se a auditorias internas de RH
 
 📺 Apresentação Executiva (Vídeo):
 Para entender os insights gerados e as conclusões tomadas a partir dos gráficos (como o Combo Chart de distribuição x salário), assista ao resumo executivo abaixo:
-[Assistir à Apresentação do Projeto](https://drive.google.com/file/d/1U0onDsidRhNYCLkCv4mj-R5WdlfJaOke/view?usp=sharing)
-
+Assistir à Apresentação do Projeto
+https://drive.google.com/file/d/1U0onDsidRhNYCLkCv4mj-R5WdlfJaOke/view?usp=sharing
 Contribuições
 Consulte CONTRIBUTING.md para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pull requests.
-
-
-
 
 
