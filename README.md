@@ -161,8 +161,3 @@ Consulte o arquivo [`CONTRIBUTING.md`](../CONTRIBUTING.md) para obter informaç�
 
 ---
 
-## 📄 Licença
-
-Caso o projeto possua uma licença específica, ela deve ser indicada aqui.
-
----
