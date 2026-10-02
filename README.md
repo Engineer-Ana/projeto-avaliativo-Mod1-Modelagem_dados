@@ -28,15 +28,16 @@ Siga este passo a passo para reproduzir o ambiente de desenvolvimento:
 git clone https://github.com/Engineer-Ana/projeto-avaliativo-Mod1-Modelagem_dados.git
 Extração dos Dados (SQL):
 Execute os scripts localizados em consultas_rh.sql no seu gerenciador de banco de dados para exportar os arquivos query_01.csv e query_02.csv.
+´´´
 
-Análise de Dados (Python):
+### Análise de Dados (Python):
 Faça o upload do notebook analise_rh.ipynb e dos arquivos CSV gerados para o seu ambiente do Google Colab.
 Execute todas as células sequencialmente para gerar os cálculos estatísticos, os gráficos de disparidade salarial e a prova do viés de amostragem.
 
-Uso 
+### Uso 
 Os resultados e gráficos desta análise destinam-se a auditorias internas de RH e comitês de Diversidade, Equidade e Inclusão (DE&I).
 
-📺 Apresentação Executiva (Vídeo):
+### 📺 Apresentação Executiva (Vídeo):
 Para entender os insights gerados e as conclusões tomadas a partir dos gráficos (como o Combo Chart de distribuição x salário), assista ao resumo executivo abaixo:
 Assistir à Apresentação do Projeto
 https://drive.google.com/file/d/1U0onDsidRhNYCLkCv4mj-R5WdlfJaOke/view?usp=sharing
